@@ -31,3 +31,8 @@ All machines were built and run in AutomataVerse as single tape TMs. Each questi
 - Q4 Run 1 (input abbabaaaababba): https://www.automataverse.com/m/d9pLzahg  - files: `Q4/q4_run1_in.json`, `Q4/q4_run1_in.png`
 - Q4 Run 2 (input abbabaaaababbb): https://www.automataverse.com/m/ceQhD2Gd  - files: `Q4/q4_run2_not_in.json`, `Q4/q4_run2_not_in.png`
 - Q4 Run 3 (input a): https://www.automataverse.com/m/pHmvoTEq  - files: `Q4/q4_run3_single.json`, `Q4/q4_run3_single.png`
+
+### Q5 - a^i # b^j, i > j
+
+- Q5 Run 1 (input aaa#bb): https://www.automataverse.com/m/5YDAVxuY  - files: `Q5/q5_run1_in.json`, `Q5/q5_run1_in.png`
+- Q5 Run 2 (input aaa#bbbb): https://www.automataverse.com/m/fGhY3uJG  - files: `Q5/q5_run2_not_in.json`, `Q5/q5_run2_not_in.png`
