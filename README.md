@@ -36,3 +36,14 @@ All machines were built and run in AutomataVerse as single tape TMs. Each questi
 
 - Q5 Run 1 (input aaa#bb): https://www.automataverse.com/m/5YDAVxuY  - files: `Q5/q5_run1_in.json`, `Q5/q5_run1_in.png`
 - Q5 Run 2 (input aaa#bbbb): https://www.automataverse.com/m/fGhY3uJG  - files: `Q5/q5_run2_not_in.json`, `Q5/q5_run2_not_in.png`
+
+### Q6 - Debug the broken machine
+
+- Q6 Broken Run 1 (input "" (empty)): https://www.automataverse.com/m/34UDq2P8  - files: `Q6/q6_broken_run1_empty.json`, `Q6/q6_broken_run1_empty.png`
+- Q6 Broken Run 2 (input 11): https://www.automataverse.com/m/PykB9YsP  - files: `Q6/q6_broken_run2_11.json`, `Q6/q6_broken_run2_11.png`
+- Q6 Broken Run 3 (input 1): https://www.automataverse.com/m/kHEM8pLK  - files: `Q6/q6_broken_run3_1.json`, `Q6/q6_broken_run3_1.png`
+- Q6 Broken Run 4 (input 111): https://www.automataverse.com/m/ddFAReJj  - files: `Q6/q6_broken_run4_111.json`, `Q6/q6_broken_run4_111.png`
+- Q6 Fixed Run 1 (input "" (empty)): https://www.automataverse.com/m/5ExRAycX  - files: `Q6/q6_fixed_run1_empty.json`, `Q6/q6_fixed_run1_empty.png`
+- Q6 Fixed Run 2 (input 11): https://www.automataverse.com/m/xxa9ir8x  - files: `Q6/q6_fixed_run2_11.json`, `Q6/q6_fixed_run2_11.png`
+- Q6 Fixed Run 3 (input 1): https://www.automataverse.com/m/wjVPaCiF  - files: `Q6/q6_fixed_run3_1.json`, `Q6/q6_fixed_run3_1.png`
+- Q6 Fixed Run 4 (input 111): https://www.automataverse.com/m/ErCbphWr  - files: `Q6/q6_fixed_run4_111.json`, `Q6/q6_fixed_run4_111.png`
