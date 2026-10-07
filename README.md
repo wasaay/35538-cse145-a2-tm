@@ -25,3 +25,9 @@ All machines were built and run in AutomataVerse as single tape TMs. Each questi
 ### Q3 - Binary x2
 
 - Q3 Run 1 (input 100110 (B)): https://www.automataverse.com/m/oejaCBC8  - files: `Q3/q3_run1_B.json`, `Q3/q3_run1_B.png`
+
+### Q4 - Even-length palindromes over {a,b}
+
+- Q4 Run 1 (input abbabaaaababba): https://www.automataverse.com/m/d9pLzahg  - files: `Q4/q4_run1_in.json`, `Q4/q4_run1_in.png`
+- Q4 Run 2 (input abbabaaaababbb): https://www.automataverse.com/m/ceQhD2Gd  - files: `Q4/q4_run2_not_in.json`, `Q4/q4_run2_not_in.png`
+- Q4 Run 3 (input a): https://www.automataverse.com/m/pHmvoTEq  - files: `Q4/q4_run3_single.json`, `Q4/q4_run3_single.png`
